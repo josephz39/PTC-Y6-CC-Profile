@@ -64,6 +64,10 @@ Git is a version control system required to interact with GitHub from your local
 Set up your Git user details to associate commits with your GitHub account.
 
 1. Open **Git Bash** or **Terminal**.
+   - For MacOS: command + space -> terminal
+   - For Windows: open command prompt
+   - NOTE: You can also do this directly in VSCode
+   - NOTE: if the command doesn't work, ensure you are in a git bash terminal
 2. Run the following commands:
    ```sh
    git config --global user.name "Your Name"
@@ -88,6 +92,12 @@ Set up your Git user details to associate commits with your GitHub account.
 ---
 
 ## Step 5: Clone the Repository 
+Before you clone your repository, you should decide where you want to work (virtually). The following IDEs (code editors) are good tools to help you get started:
+- VSCode: standard IDE use across the industry - developed by Microsoft https://code.visualstudio.com/download
+- GitHub Codespaces: VSCode built into the GitHub ecosystem. This allows you to develop directly within your repo.
+- Online IDEs: repl.it, CodeSandbox (free tier)
+
+If you need help setting any of these up, please reach out to one of our coding challenge coordinators.
 
 To work on your repository locally, clone it to your computer.
 
@@ -142,6 +152,7 @@ git pull origin main
 
 ## Conclusion
 
-Congratulations! You have successfully set up GitHub and pushed your first project. You can now continue to explore GitHub, collaborate on projects, and improve your version control skills.
+Congratulations! You have successfully set up GitHub and your project repository. You can now continue to proceed to the next steps of the project: **TASK 2 - Set up your first React App**.
 
 For further learning, check out [GitHub Docs](https://docs.github.com/).
+You can also check this out for a resource on Git Commands: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
