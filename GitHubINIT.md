@@ -1,8 +1,15 @@
-# GitHub Setup Guide for Beginners
+# PTC Community Codes TASK 1: GitHub Setup
+Welcome to PTC's Y6 Community Codes Coding Challenge. This term, we will be focusing on developing skills pertaining to web development. By the end of this challenge/project, you should be able to create a simple web application using React.js, define basic HTML/CSS components, and design your pages around standard UI/UX principles. 
+
 
 ## Introduction
 
-This guide will walk you through the process of setting up GitHub as a beginner. You will learn how to create a GitHub account, install Git, configure Git, create a repository, and push your first project.
+TASK 1 will be to initialize and setup your github repo. This is where you will be storing and tracking all of your files and updates. This will allow us to check your progress as well, whenver you submit project milestones. 
+
+### What is Github?
+GitHub is an online platform that helps developers collaborate and store their coding projects. Think of it like a giant filing cabinet in the cloud where you can safely store your code, track changes, and collaborate with others. It uses a tool called Git to manage the history of your code, so you can see what’s been added or changed over time and even undo mistakes if needed. GitHub is a standard tool in the industry so this is the perfect place to start and get familiar with it.
+
+If you have never used GitHub before, you can follow the steps below. Otherwise, if you already have a GitHub account and have used it before, feel free to skip to **Step 4** to create your project repo.
 
 ---
 
@@ -73,13 +80,14 @@ Set up your Git user details to associate commits with your GitHub account.
 
 1. Log in to your GitHub account.
 2. Click on **New Repository**.
-3. Enter a repository name and description.
+3. Enter a repository name and description:
+  - Name it something pertaining to the project: ie. Profile-App
 4. Choose to make it **public** or **private**.
 5. Click **Create repository**.
 
 ---
 
-## Step 5: Clone the Repository (Optional)
+## Step 5: Clone the Repository 
 
 To work on your repository locally, clone it to your computer.
 
