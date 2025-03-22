@@ -156,3 +156,8 @@ Congratulations! You have successfully set up GitHub and your project repository
 
 For further learning, check out [GitHub Docs](https://docs.github.com/).
 You can also check this out for a resource on Git Commands: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+## Challenges
+- Try to update a file in your current repository and add more commits (start with README.md)
+- Create a branch from your github repo's main branch in preparation for the next tasks.
+- Test and familiarize yourself with git commands (commit, push, pull, checkout, etc.).
