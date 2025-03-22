@@ -1,7 +1,9 @@
 # PTC Community Codes TASK 2: Set up your first React App
 
 ## Introduction
-This guide will walk you through the process of setting up a simple React app as a beginner. You will learn how to install Node.js, create a React project, run the development server, and structure your project.
+Task 2 will be to setup your intial react app within this repo.
+
+This guide will walk you through the process of setting up a simple React app. You will learn how to install Node.js, create a React project, run the development server, and structure your project.
 
 ## What is React?
 React.js is a front-end javascript library that aims to make building websites and apps easier for users. It’s a popular JavaScript library that lets developers design user interfaces in smaller, reusable pieces called "components." Think of components as building blocks that help you design your application while keeping everything organized and efficient. React is fast and dynamic because it updates only the parts of the page that change, instead of reloading the whole thing (see React DOM). Thus, react apps would be the next step up from your standard static HTML/CSS pages. Feel free to look at the React Documentation to lean more: https://react.dev/reference/react
